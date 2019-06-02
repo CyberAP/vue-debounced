@@ -39,5 +39,11 @@
   "main": "dist/vue-debounced.cjs.js",
   "module": "dist/vue-debounced.es.js",
   "unpkg": "dist/vue-debounced.js",
-  "browser": "dist/vue-debounced.es.js"
+  "browser": "dist/vue-debounced.es.js",
+  "files": [
+    "src",
+    "dist/*.js",
+    "LICENSE",
+    "README.md"
+  ]
 }
