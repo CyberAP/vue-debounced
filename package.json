@@ -45,5 +45,6 @@
     "dist/*.js",
     "LICENSE",
     "README.md"
-  ]
+  ],
+  "homepage": "https://github.com/CyberAP/vue-debounced"
 }
