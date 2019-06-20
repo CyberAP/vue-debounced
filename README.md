@@ -36,7 +36,7 @@ Store and debounce value from scoped slot
 
 Install via npm:
 
-`npm install vue-promised --save`
+`npm install vue-debounced --save`
 
 Pick one of three ways to use it.
 
