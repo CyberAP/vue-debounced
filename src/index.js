@@ -1,4 +1,4 @@
-import { install, Debounced } from './component.js';
+import { Debounced } from './component.js';
 
 export default {
   install(Vue) {
